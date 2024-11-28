@@ -78,5 +78,8 @@ _9_
 - d078c8d9ee6155f3cb0e577d28d337b791de28e2:
 L-03: Docs added
 - 8ba9aeb3cea847b63a91ac378a2a6db758682460:
-L-03: Circle and square added		
+L-03: Circle and square added
+- e16103a3fd0449edd46ddef76d4359f6accb0fac:
+Добавлены тесты для всех программ
+
 
